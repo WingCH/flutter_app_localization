@@ -1,0 +1,6 @@
+{
+  "pageHomeConfirm": "確定",
+  "pageHomeWelcome": "歡迎 {name}",
+  "pageHomeWelcomeGender": "{gender, select, male {Hi man!} female {Hi woman!} other {Hi there!}}",
+  "pageNotificationsCount": "{howMany, plural, one{1 message} other{{howMany} messages}}"
+}
